@@ -1,2 +1,1 @@
-# csgo-vertigo
-low quality shit
+# soon
